@@ -2,13 +2,13 @@
 
 "Ads": [
     {
-      "select_main_ads": "IRON",
+      "select_main_ads": "MOPUB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "backup_ads_banner":"DefaultBanner",
-      "backup_ads_intertitial":"DefaultInterstitial",
-      "initialize_sdk":"11086fa75",
+      "main_ads_banner": "76c1ff647a5949ab88bb71765a9f1ed4",
+      "main_ads_intertitial":"1aff5748b46f4094b2c506e2d84ec8a8",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "initialize_sdk":"76c1ff647a5949ab88bb71765a9f1ed4",
       "initialize_sdk_backup_ads":"",
       "url_webiste":"https://play.google.com/store/apps/details?id=com.zuperball.mohamedsalahkeyboardsimple",
       "high_paying_keyword_1": "Forex",
