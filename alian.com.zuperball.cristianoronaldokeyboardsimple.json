@@ -2,14 +2,14 @@
 
 "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "backup_ads_banner":"DefaultBanner",
-      "backup_ads_intertitial":"DefaultInterstitial",
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"11086fa75",
+      "select_main_ads": "MOPUB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "4ae0fe3b43b6409c88e4688339054564",
+      "main_ads_intertitial":"2824e658ce024b37b882bf9672a961bc",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "initialize_sdk":"4ae0fe3b43b6409c88e4688339054564",
+      "initialize_sdk_backup_ads":"",
       "url_webiste":"https://play.google.com/store/apps/details?id=com.zuperball.cristianoronaldokeyboardsimple",
       "high_paying_keyword_1": "Forex",
       "high_paying_keyword_2": "Insurance",
