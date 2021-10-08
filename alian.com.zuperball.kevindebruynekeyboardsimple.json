@@ -2,14 +2,14 @@
 
 "Ads": [
     {
-      "select_main_ads": "MOPUB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "1346a24fed9845f48f78775307217d24",
-      "main_ads_intertitial":"cecfdf87cbb24ef29e10b2f836a571c8",
-      "backup_ads_banner":"DefaultBanner",
-      "backup_ads_intertitial":"DefaultInterstitial",
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"MOPUB",
+      "main_ads_banner": "23bbf26825b32aaf",
+      "main_ads_intertitial":"e2dedb3d3d348cad",
+      "backup_ads_banner":"1346a24fed9845f48f78775307217d24",
+      "backup_ads_intertitial":"cecfdf87cbb24ef29e10b2f836a571c8",
       "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk_backup_ads":"1346a24fed9845f48f78775307217d24",
       "url_webiste":"https://play.google.com/store/apps/details?id=com.zuperball.kevindebruynekeyboardsimple",
       "high_paying_keyword_1": "Forex",
       "high_paying_keyword_2": "Insurance",
