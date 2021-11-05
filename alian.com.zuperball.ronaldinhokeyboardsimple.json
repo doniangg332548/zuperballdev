@@ -3,13 +3,13 @@
 "Ads": [
     {
       "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"MOPUB",
+      "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "5c7d04e43ae7b071",
       "main_ads_intertitial":"db5bbb509cc4aae0",
-      "backup_ads_banner":"8103c377f78848b4ba87bd52593d484d",
-      "backup_ads_intertitial":"c82a16202d7b485f97fc4f8cd7f101b2",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"8103c377f78848b4ba87bd52593d484d",
+      "initialize_sdk_backup_ads":"",
       "url_webiste":"https://play.google.com/store/apps/details?id=com.zuperball.ronaldinhokeyboardsimple",
       "high_paying_keyword_1": "Forex",
       "high_paying_keyword_2": "Insurance",
