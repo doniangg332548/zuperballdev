@@ -1,0 +1,157 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN-D",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "main_ads_natives":"",
+         "main_ads_rewards":"",
+         "backup_ads_natives":"",
+         "backup_ads_banner":"db4d5e8718b97d78",
+         "backup_ads_intertitial":"518cd97722c60b52",
+         "backup_ads_rewards":"",
+         "open_ads_admob":"",
+         "open_ads_alien":"",
+         "switch_open_ads":"1",
+         "switch_banner_natives_ads":"1",
+         "on_off_native_listview":"0",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://",
+         "on_off_category":""
+      }
+   ],
+   "More":[
+      {
+         "id":1,
+         "title":"Ludo King",
+         "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "name_category":"Home Front Design",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront001.jpg"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 1",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom001.jpg"
+      },
+      {
+         "id":2,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 2",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom002.jpg"
+      },
+      {
+         "id":3,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 3",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom003.jpg"
+      },
+      {
+         "id":4,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 4",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom004.jpg"
+      },
+      {
+         "id":5,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 5",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom005.jpg"
+      },
+      {
+         "id":6,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 6",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom006.jpg"
+      },
+      {
+         "id":7,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 7",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom007.jpg"
+      },
+      {
+         "id":8,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 8",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom008.jpg"
+      },
+      {
+         "id":9,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 9",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom009.jpg"
+      },
+      {
+         "id":10,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 10",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom010.jpg"
+      },
+      {
+         "id":11,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 11",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom011.jpg"
+      },
+      {
+         "id":12,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 12",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom012.jpg"
+      },
+      {
+         "id":13,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 13",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom013.jpg"
+      },
+      {
+         "id":14,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 14",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom014.jpg"
+      },
+      {
+         "id":15,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 15",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom015.jpg"
+      },
+      {
+         "id":16,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 16",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom016.jpg"
+      },
+      {
+         "id":17,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 17",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom017.jpg"
+      },
+      {
+         "id":18,
+         "name_category":"Pop Bedroom Design",
+         "title":"Pop Bedroom Design 18",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom018.jpg"
+      }
+   ]
+}
