@@ -17,7 +17,7 @@
          "switch_banner_natives_ads":"1",
          "on_off_native_listview":"0",
          "interval_intertitial":5,
-         "initialize_sdk":"107355779",
+         "initialize_sdk":"",
          "initialize_sdk_backup_ads":"",
          "high_paying_keyword_1":"",
          "high_paying_keyword_2":"",
@@ -32,16 +32,16 @@
    "More":[
       {
          "id":1,
-         "title":"Ludo King",
-         "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-         "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+         "title":"Home Front Design Ideas",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/iconhouse-front-design.png",
+         "link":"https://play.google.com/store/apps/details?id=com.zuperball.homefrontdesign"
       }
    ],
    "Categories":[
       {
          "id":1,
-         "name_category":"Home Front Design",
-         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront001.jpg"
+         "name_category":"Pop Bedroom Design",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/popbedroom001.jpg"
       }
    ],
    "Data":[
