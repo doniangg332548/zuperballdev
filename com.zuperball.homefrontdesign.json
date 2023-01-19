@@ -2,14 +2,14 @@
    "Ads":[
       {
          "select_main_ads":"ADMOB",
-         "select_backup_ads":"APPLOVIN-D",
-         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
-         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "select_backup_ads":"null",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111x",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
          "main_ads_natives":"",
          "main_ads_rewards":"",
          "backup_ads_natives":"",
-         "backup_ads_banner":"db4d5e8718b97d78",
-         "backup_ads_intertitial":"518cd97722c60b52",
+         "backup_ads_banner":"",
+         "backup_ads_intertitial":"",
          "backup_ads_rewards":"",
          "open_ads_admob":"",
          "open_ads_alien":"",
@@ -17,7 +17,7 @@
          "switch_banner_natives_ads":"1",
          "on_off_native_listview":"0",
          "interval_intertitial":5,
-         "initialize_sdk":"107355779",
+         "initialize_sdk":"",
          "initialize_sdk_backup_ads":"",
          "high_paying_keyword_1":"",
          "high_paying_keyword_2":"",
@@ -32,9 +32,9 @@
    "More":[
       {
          "id":1,
-         "title":"Ludo King",
-         "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-         "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+         "title":"Pop Design for Bedroom",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/iconpopdesign.png",
+         "link":"https://play.google.com/store/apps/details?id=com.zuperball.popdesignforbedroom"
       }
    ],
    "Categories":[
@@ -146,6 +146,384 @@
          "name_category":"Home Front Design",
          "title":"Home Front Design 17",
          "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront017.jpg"
+      },
+      {
+         "id":18,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 18",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront018.jpg"
+      },
+      {
+         "id":19,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 19",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront019.jpg"
+      },
+      {
+         "id":20,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 20",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront020.jpg"
+      },
+      {
+         "id":21,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 21",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront021.jpg"
+      },
+      {
+         "id":22,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 22",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront022.jpg"
+      },
+      {
+         "id":23,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 23",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront023.jpg"
+      },
+      {
+         "id":24,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 24",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront024.jpg"
+      },
+      {
+         "id":25,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 25",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront025.jpg"
+      },
+      {
+         "id":26,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 26",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront026.jpg"
+      },
+      {
+         "id":27,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 27",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront027.jpg"
+      },
+      {
+         "id":28,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 28",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront028.jpg"
+      },
+      {
+         "id":29,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 29",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront029.jpg"
+      },
+      {
+         "id":30,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 30",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront030.jpg"
+      },
+      {
+         "id":31,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 31",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront031.jpg"
+      },
+      {
+         "id":32,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 32",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront032.jpg"
+      },
+      {
+         "id":33,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 33",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront033.jpg"
+      },
+      {
+         "id":34,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 34",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront034.jpg"
+      },
+      {
+         "id":35,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 35",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront035.jpg"
+      },
+      {
+         "id":36,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 36",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront036.jpg"
+      },
+      {
+         "id":37,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 37",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront037.jpg"
+      },
+      {
+         "id":38,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 38",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront038.jpg"
+      },
+      {
+         "id":39,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 39",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront039.jpg"
+      },
+      {
+         "id":40,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 40",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront040.jpg"
+      },
+      {
+         "id":41,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 41",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront041.jpg"
+      },
+      {
+         "id":42,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 42",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront042.jpg"
+      },
+      {
+         "id":43,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 43",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront043.jpg"
+      },
+      {
+         "id":44,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 44",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront044.jpg"
+      },
+      {
+         "id":45,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 45",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront045.jpg"
+      },
+      {
+         "id":46,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 46",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront046.jpg"
+      },
+      {
+         "id":47,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 47",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront047.jpg"
+      },
+      {
+         "id":48,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 48",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront048.jpg"
+      },
+      {
+         "id":49,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 49",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront049.jpg"
+      },
+      {
+         "id":50,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 50",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront050.jpg"
+      },
+      {
+         "id":51,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 51",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront051.jpg"
+      },
+      {
+         "id":52,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 52",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront052.jpg"
+      },
+      {
+         "id":53,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 53",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront053.jpg"
+      },
+      {
+         "id":54,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 54",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront054.jpg"
+      },
+      {
+         "id":55,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 55",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront055.jpg"
+      },
+      {
+         "id":56,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 56",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront056.jpg"
+      },
+      {
+         "id":57,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 57",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront057.jpg"
+      },
+      {
+         "id":58,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 58",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront058.jpg"
+      },
+      {
+         "id":59,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 59",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront059.jpg"
+      },
+      {
+         "id":60,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 60",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront060.jpg"
+      },
+      {
+         "id":61,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 61",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront061.jpg"
+      },
+      {
+         "id":62,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 62",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront062.jpg"
+      },
+      {
+         "id":63,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 63",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront063.jpg"
+      },
+      {
+         "id":64,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 64",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront064.jpg"
+      },
+      {
+         "id":65,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 65",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront065.jpg"
+      },
+      {
+         "id":66,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 66",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront066.jpg"
+      },
+      {
+         "id":67,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 67",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront067.jpg"
+      },
+      {
+         "id":68,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 68",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront068.jpg"
+      },
+      {
+         "id":69,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 69",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront069.jpg"
+      },
+      {
+         "id":70,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 70",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront070.jpg"
+      },
+      {
+         "id":71,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 71",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront071.jpg"
+      },
+      {
+         "id":72,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 72",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront072.jpg"
+      },
+      {
+         "id":73,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 73",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront073.jpg"
+      },
+      {
+         "id":74,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 74",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront074.jpg"
+      },
+      {
+         "id":75,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 75",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront075.jpg"
+      },
+      {
+         "id":76,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 76",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront076.jpg"
+      },
+      {
+         "id":77,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 77",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront077.jpg"
+      },
+      {
+         "id":78,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 78",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront078.jpg"
+      },
+      {
+         "id":79,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 79",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront079.jpg"
+      },
+      {
+         "id":80,
+         "name_category":"Home Front Design",
+         "title":"Home Front Design 80",
+         "image":"https://zuperballhome.files.wordpress.com/2023/01/homefront080.jpg"
       }
    ]
 }
